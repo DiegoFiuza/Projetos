@@ -1,0 +1,3 @@
+module comida
+
+go 1.23.2
