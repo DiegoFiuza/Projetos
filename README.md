@@ -1,4 +1,4 @@
-## Sobre o Projeto
+## Sobre o Projetos
 
 Essa pasta  visa mostrar meus conhecimentos com a linguagem **Go**.
 
