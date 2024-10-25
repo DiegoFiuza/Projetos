@@ -35,4 +35,5 @@ func main() {
 	}))
 	fmt.Printf("Subindo server na porta %s", porta)
 	log.Fatal(http.ListenAndServe(":"+porta, nil))
+	//
 }
